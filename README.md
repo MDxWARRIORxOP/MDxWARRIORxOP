@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bread and DCRD.com
+- 🔭 I’m currently working on The Bread Game and DCRD.com
 - 🌱 I’m currently learning AI
 - 💬 Ask me about anything nodejs
 - 📫 How to reach me: discord: Kingerious#4777
