@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MDxWARRIORxOP/MDxWARRIORxOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Bread and DCRD.com
+- 🌱 I’m currently learning AI
+- 💬 Ask me about anything nodejs
+- 📫 How to reach me: discord: Kingerious#4777
+- 😄 Pronouns: he/him, king
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MDxWARRIORxOP&count_private=true&show_icons=true&theme=apprentice" alt="Github states"> 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDxWARRIORxOP&clude_repo=WhoIsDanix.github.io&layout=compact&theme=apprentice" alt="Top langs">
+</p>
