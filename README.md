@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋</h1>
 
-- 🔭 I’m currently working on [Entity Messenger](https://entitymessenger.tk) and DCRD.com
+- 🔭 I’m currently working on [Entity Messenger](https://entitymessenger.tk) and [DCRD](https://drcd-com-mdxwarriorxop.vercel.app/)
 - 🌱 I’m currently learning AI
 - 💬 Ask me about anything nodejs
 - 📫 How to reach me: discord: Kingerious#4777
