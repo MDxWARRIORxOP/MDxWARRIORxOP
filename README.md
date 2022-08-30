@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1>Hi there 👋</h1>
 
 - 🔭 I’m currently working on [Entity Messenger](https://entitymessenger.tk) and DCRD.com
 - 🌱 I’m currently learning AI
@@ -6,7 +6,7 @@
 - 📫 How to reach me: discord: Kingerious#4777
 - 😄 Pronouns: he/him, king
 
-### Github Stats
+### <h1>Github Stats</h1>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=MDxWARRIORxOP&count_private=true&show_icons=true&theme=apprentice" alt="Github states"> 
   <br>
