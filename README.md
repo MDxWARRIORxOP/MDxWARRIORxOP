@@ -6,12 +6,22 @@
 - 📫 How to reach me: discord: Kingerious#4777
 - 😄 Pronouns: he/him, king
 
-### <h1>Github Stats</h1>
-<p align="center"> 
+### <h1>Stuff</h1>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MDxWARRIORxOP&count_private=true&show_icons=true&theme=apprentice" alt="Github states"> 
-  <br>
+</p>
+
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDxWARRIORxOP&clude_repo=entityMessenger&layout=compact&theme=apprentice" alt="Top langs">
 </p>
+
+<p align="center">
+  <a href="https://discord.com/users/787011713194524712">
+    <img src="https://lanyard.cnrad.dev/api/787011713194524712" alt="My Discord Status" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/MDxWARRIORxOP/EntityMessenger">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MDxWARRIORxOP&repo=EntityMessenger&theme=dark&show_owner=true" alt="Entity Messenger Repo"/>
