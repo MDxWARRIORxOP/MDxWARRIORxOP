@@ -1,26 +1,34 @@
 ### <h1>Hi there 👋</h1>
 
 - 🔭 I’m currently working on [Entity Messenger](https://entitymessenger.tk) and [DCRD](https://drcd-com-mdxwarriorxop.vercel.app/)
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning C-lang
 - 💬 Ask me about anything nodejs
 - 📫 How to reach me: discord: Kingerious#4777
 - 😄 Pronouns: he/him, king
 
-### <h1>Stuff</h1>
+### <h1>Languages/Tools I use:</h1>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDxWARRIORxOP&count_private=true&show_icons=true&theme=apprentice" alt="Github states"> 
-</p>
+• <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> - Javascript.    
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDxWARRIORxOP&clude_repo=entityMessenger&layout=compact&theme=apprentice" alt="Top langs">
-</p>
+• <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> - HTML.
 
-<p align="center">
-  <a href="https://discord.com/users/787011713194524712">
-    <img src="https://lanyard.cnrad.dev/api/787011713194524712" alt="My Discord Status" />
-  </a>
-</p>
+• <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> - Python.    
+
+• <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /> - JSON.
+
+• <img align="center" height="50px" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> - Github.
+
+• <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" /> - Windows.
+
+• <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> - HTML.
+
+• <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> - CSS.
+
+• <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> - React.
+
+• <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" /> - Nextjs.
+
+### <h1>Repos im working on:</h1>
 
 <p align="center">
   <a href="https://github.com/MDxWARRIORxOP/EntityMessenger">
