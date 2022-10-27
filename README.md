@@ -45,4 +45,10 @@
   <a href="https://github.com/UFO-Studios/AlienBot-2.0">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=UFO-Studios&repo=AlienBot-2.0&theme=dark&show_owner=true" alt="Entity Messenger Repo"/>
   </a>
+   <a href="https://github.com/MDxWARRIORxOP/TheLoafLanguage">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MDxWARRIORxOP&repo=TheLoafLanguage&theme=dark&show_owner=true" alt="Entity Messenger Repo"/>
+  </a>
+    <a href="https://github.com/MDxWARRIORxOP/Bread">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MDxWARRIORxOP&repo=Bread&theme=dark&show_owner=true" alt="Entity Messenger Repo"/>
+  </a>
 </p>
