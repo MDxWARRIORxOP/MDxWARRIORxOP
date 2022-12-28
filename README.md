@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Entity Messenger](https://entitymessenger.tk) and [DCRD](https://drcd-com-mdxwarriorxop.vercel.app/)
 - 🌱 I’m currently learning C-lang
 - 💬 Ask me about anything nodejs
-- 📫 How to reach me: discord: Kingerious#4777
+- 📫 How to reach me: discord: Kingerious#5185
 - 😄 Pronouns: he/him, king
 
 ### <h1>Languages/Tools I use:</h1>
