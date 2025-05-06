@@ -2,5 +2,5 @@
 
 # Hey there!
 
-I'm Mohammed Siddiqui, a 15yo computer enthusiast who likes to code in his free time.    
-JS/TS/Python/C/react/next/django
+I'm Mohammed Siddiqui, a 16yo computer enthusiast who likes to code in his free time.    
+JS/TS/Python/C/C++/react/next/django/ionic
